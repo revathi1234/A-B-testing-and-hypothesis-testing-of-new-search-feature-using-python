@@ -7,10 +7,10 @@ The project aims to analyze the engagement and success metrics associated with t
 
 ##  User Actions Tracked for Measuring Search Engagement:
 
-#### Number of Search Queries: Tracking the frequency of user searches.
-#### "View Details" Clicks: Monitoring the clicks on the "view details" button.
-#### Actions for "Add to List": Counting the items added to users' shopping lists.
-#### Shopping List Completion Rate: Measuring the rate of completed shopping lists (share or print).
+##### Number of Search Queries: Tracking the frequency of user searches.
+##### "View Details" Clicks: Monitoring the clicks on the "view details" button.
+##### Actions for "Add to List": Counting the items added to users' shopping lists.
+##### Shopping List Completion Rate: Measuring the rate of completed shopping lists (share or print).
 
 ### Metrics for Reporting the Feature Performance:
 

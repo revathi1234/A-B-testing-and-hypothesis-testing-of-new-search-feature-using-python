@@ -7,25 +7,28 @@ The project aims to analyze the engagement and success metrics associated with t
 
 ##  User Actions Tracked for Measuring Search Engagement:
 
-Number of Search Queries: Tracking the frequency of user searches.
-"View Details" Clicks: Monitoring the clicks on the "view details" button.
-Actions for "Add to List": Counting the items added to users' shopping lists.
-Shopping List Completion Rate: Measuring the rate of completed shopping lists (share or print).
-Metrics for Reporting the Feature Performance:
+#### Number of Search Queries: Tracking the frequency of user searches.
+#### "View Details" Clicks: Monitoring the clicks on the "view details" button.
+#### Actions for "Add to List": Counting the items added to users' shopping lists.
+#### Shopping List Completion Rate: Measuring the rate of completed shopping lists (share or print).
 
-Conversion Rate: Number of users completing shopping lists (purchases).
-Average Items Added per User: Average items added to shopping lists.
-Bounce Rate from Search Results: Rate of users bouncing off from search results.
-Average Number of Sessions Launched: Average sessions initiated by users.
-Average Time Spent on Search Results Page: Duration spent on search results.
-Query Reformulation Rate: Rate at which users reformulate their queries.
-Determining Feature Success:
+### Metrics for Reporting the Feature Performance:
 
-Monitoring Search Response Times: Ensuring fast and reliable search results.
-Analyzing User Engagement Evolution: Tracking engagement changes over time.
-Test vs Control Analysis: Comparing metrics like conversion rate, time spent, sessions between test and control groups.
-User Feedback and Ratings: Gathering user satisfaction data through feedback.
-Additional Data Insights:
+#### Conversion Rate: Number of users completing shopping lists (purchases).
+#### Average Items Added per User: Average items added to shopping lists.
+#### Bounce Rate from Search Results: Rate of users bouncing off from search results.
+#### Average Number of Sessions Launched: Average sessions initiated by users.
+#### Average Time Spent on Search Results Page: Duration spent on search results.
+#### Query Reformulation Rate: Rate at which users reformulate their queries.
+
+### Determining Feature Success:
+
+#### Monitoring Search Response Times: Ensuring fast and reliable search results.
+#### Analyzing User Engagement Evolution: Tracking engagement changes over time.
+#### Test vs Control Analysis: Comparing metrics like conversion rate, time spent, sessions between test and control groups.
+#### User Feedback and Ratings: Gathering user satisfaction data through feedback.
+
+### Additional Data Insights:
 
 User Journey Analysis: Examining user actions post and pre-search (e.g., add to cart).
 Search Algorithm Enhancement: Training algorithms with synonyms, contextual words.
